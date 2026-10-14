@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "title": "Toda boa história merece ser conversada.",
+    "text": "O Doce Leitura reúne leitoras e leitores uma vez por mês para discutir um livro escolhido em conjunto — com chá, café e boas conversas. Sem pressa, sem regras rígidas, só o prazer de ler acompanhado.",
+    "primaryButton": "Quero participar",
+    "secondaryLink": "Ver nossos encontros",
+    "image": "/images/clube-doce-leitura.webp",
+    "imageAlt": "Ilustração das amigas do Doce Leitura sorrindo em volta de uma mesa com livros e canecas de café"
+  },
+  "about": {
+    "title": "A leitura fica mais doce quando é compartilhada",
+    "paragraphs": [
+      "Fundado em 2021 por um grupo de amigas que trocavam livros pelo correio, o Doce Leitura cresceu até virar um clube com encontros mensais — presenciais e online. Escolhemos um livro por vez, lemos no nosso próprio ritmo e nos reunimos para conversar sobre personagens, dúvidas e trechos favoritos.",
+      "Não existe leitura \"certa\": aqui cabem quem lê rápido, quem lê devagar, quem prefere ouvir o audiobook e quem chega no encontro sem ter terminado. O importante é aparecer com vontade de conversar."
+    ],
+    "stats": [
+      { "value": "48", "label": "membros ativos" },
+      { "value": "32", "label": "livros lidos" },
+      { "value": "60+", "label": "encontros" }
+    ]
+  },
+  "bookshelf": {
+    "title": "Nossa estante",
+    "text": "Os livros que já lemos juntos, com uma frase de cada discussão."
+  },
+  "testimonials": {
+    "title": "O que dizem nossos membros"
+  },
+  "blog": {
+    "title": "Resenhas e reflexões",
+    "link": "Ver todas →"
+  },
+  "meetings": {
+    "title": "Nossos encontros",
+    "text": "Um pouco do que acontece quando a gente se reúne para falar de livro."
+  },
+  "join": {
+    "title": "Bora trocar ideia sobre o próximo livro?",
+    "text": "Segue a gente no Instagram e fica por dentro do livro do mês, das datas de encontro e dos bastidores do clube.",
+    "button": "Seguir no Instagram"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Como escolhemos o próximo livro do clube",
+  "category": "Bastidores",
+  "author": "Camila Nogueira",
+  "date": "2026-06-15",
+  "excerpt": "Um olhar por dentro da votação mensal e os critérios que usamos.",
+  "image": "",
+  "book": {
+    "title": "Livro do mês",
+    "author": "Votação do clube"
+  },
+  "quote": "Nenhum livro agrada todo mundo, mas todo livro rende uma boa conversa.",
+  "body": [
+    "Este é um texto de exemplo para a resenha. Aqui entra a abertura, contando como o livro chegou ao clube e qual era a expectativa do grupo antes da leitura.",
+    "No segundo parágrafo, a autora ou o autor da resenha comenta os pontos centrais da história: personagens, ritmo, linguagem e o que mais chamou atenção durante a leitura.",
+    "Depois entram as impressões que surgiram no encontro: onde as opiniões se dividiram, que trechos foram lidos em voz alta e o que mudou na percepção de cada pessoa.",
+    "Por fim, um fechamento com a avaliação pessoal e a indicação: para quem este livro funciona, e o que levar da conversa para a próxima leitura."
+  ]
+}

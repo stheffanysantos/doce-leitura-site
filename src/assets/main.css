@@ -1,0 +1,115 @@
+:root {
+  --cream: oklch(0.972 0.014 85);
+  --ink: oklch(0.26 0.03 20);
+  --ink-soft: oklch(0.42 0.025 20);
+  --ink-muted: oklch(0.4 0.03 20);
+  --rose: oklch(0.5 0.14 15);
+  --rose-light: oklch(0.9 0.05 15);
+  --blush: oklch(0.93 0.035 15);
+  --forest: oklch(0.3 0.05 160);
+
+  /* Content spans the full window; the cap only kicks in on very wide monitors. */
+  --gutter: clamp(24px, 5vw, 96px);
+  --max: 1920px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--cream);
+  color: var(--ink);
+  font-family: 'Poppins', sans-serif;
+  overflow-x: hidden;
+}
+
+a {
+  color: var(--ink);
+  text-decoration: none;
+  transition: color 0.2s, background-color 0.2s;
+}
+
+a:hover {
+  color: var(--rose);
+}
+
+::selection {
+  background: oklch(0.88 0.06 15);
+}
+
+/* Titles: Poppins in a heavier weight, slightly tightened */
+.disp {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.ph {
+  background-image: repeating-linear-gradient(
+    135deg,
+    oklch(0.93 0.02 80) 0 10px,
+    oklch(0.955 0.016 80) 10px 20px
+  );
+}
+
+.ph-label {
+  font-family: ui-monospace, monospace;
+  font-size: 12px;
+  color: oklch(0.5 0.03 20);
+}
+
+.container {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding-left: var(--gutter);
+  padding-right: var(--gutter);
+}
+
+.section-title {
+  font-size: 44px;
+  line-height: 1.1;
+  margin: 0;
+  letter-spacing: -0.01em;
+}
+
+.section-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 40px;
+  margin-bottom: 56px;
+  flex-wrap: wrap;
+}
+
+.section-head p {
+  font-size: 15.5px;
+  line-height: 1.7;
+  color: var(--ink-soft);
+  max-width: 380px;
+  margin: 0;
+}
+
+.link-underline {
+  font-size: 14.5px;
+  white-space: nowrap;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.btn {
+  display: inline-block;
+  border-radius: 100px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+@media (max-width: 1100px) {
+  .hide-mobile {
+    display: none !important;
+  }
+}

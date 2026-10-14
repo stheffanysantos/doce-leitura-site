@@ -1,0 +1,18 @@
+{
+  "title": "Resenhas e reflexões",
+  "text": "Textos escritos pelos membros depois dos encontros: o que a gente leu, o que ficou na cabeça e o que mudou de opinião no caminho.",
+  "categories": ["Resenha", "Reflexão", "Bastidores"],
+  "allLabel": "Todas",
+  "join": {
+    "title": "Quer escrever uma resenha para o clube?",
+    "button": "Falar com a gente no Instagram"
+  },
+  "letter": {
+    "greeting": "Olá, pessoal do clube,",
+    "signoff": "Com carinho,",
+    "subscribeTitle": "Receba a próxima carta",
+    "subscribeText": "Avisamos no Instagram sempre que sai uma resenha nova.",
+    "subscribeButton": "Seguir no Instagram →",
+    "moreTitle": "Cartas anteriores"
+  }
+}

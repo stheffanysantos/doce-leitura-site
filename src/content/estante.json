@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Cem Anos de Solidão",
+    "author": "Gabriel García Márquez",
+    "readIn": "2026-01",
+    "phrase": "ninguém terminou sem reler o começo",
+    "color": "#f8d4d5",
+    "cover": ""
+  },
+  {
+    "title": "Klara e o Sol",
+    "author": "Kazuo Ishiguro",
+    "readIn": "2026-02",
+    "phrase": "a discussão virou a noite",
+    "color": "#f3d8c4",
+    "cover": ""
+  },
+  {
+    "title": "Torto Arado",
+    "author": "Itamar Vieira Junior",
+    "readIn": "2026-03",
+    "phrase": "lágrima até de quem não chora com livro",
+    "color": "#c0e7e8",
+    "cover": ""
+  },
+  {
+    "title": "A Hora da Estrela",
+    "author": "Clarice Lispector",
+    "readIn": "2026-04",
+    "phrase": "45 minutos só sobre o final",
+    "color": "#f8d5cf",
+    "cover": ""
+  },
+  {
+    "title": "Persuasão",
+    "author": "Jane Austen",
+    "readIn": "2026-05",
+    "phrase": "dividiu opiniões sobre o herói perfeito",
+    "color": "#f4d4e2",
+    "cover": ""
+  },
+  {
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "readIn": "2026-06",
+    "phrase": "virou clube de mitologia por um mês",
+    "color": "#cce6d0",
+    "cover": ""
+  },
+  {
+    "title": "O Avesso da Pele",
+    "author": "Jeferson Tenório",
+    "readIn": "2025-11",
+    "phrase": "o debate mais intenso do ano",
+    "color": "#f8d4d1",
+    "cover": ""
+  },
+  {
+    "title": "Mrs. Dalloway",
+    "author": "Virginia Woolf",
+    "readIn": "2025-10",
+    "phrase": "dá pra amar sem entender tudo",
+    "color": "#d8dcf9",
+    "cover": ""
+  }
+]

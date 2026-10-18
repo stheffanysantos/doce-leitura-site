@@ -4,7 +4,7 @@ import { meetingDateTime, monthName } from '@/utils/format'
 
 const details = [
   { label: 'Encontro', value: meetingDateTime(book.meetingDate) },
-  { label: 'Páginas', value: book.pages },
+  { label: 'Páginas', value: book.pages ?? 'Não informado' },
   { label: 'Formato', value: book.format },
 ]
 </script>

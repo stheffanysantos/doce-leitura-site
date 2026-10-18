@@ -1,23 +1,39 @@
 [
   {
     "date": "2026-06",
-    "place": "Café Livraria",
-    "title": "Circe e a noite dos mitos",
-    "text": "Três horas de conversa sobre deuses, bruxas e quem merece o final feliz, com bolo de laranja na mesa.",
-    "photos": []
+    "place": "Parque da Sementeira",
+    "title": "Para sempre seu — Abby Jimenez",
+    "text": "Café da manhã ao ar livre, novas conexões entre leitoras e momentos de interação.",
+    "photos": [
+      "/images/encontros/1/1/8a9f0c5b-37f5-45fc-bbb1-e8c72acb2401.jpeg",
+      "/images/encontros/1/1/56f4dd32-b776-4c36-b1bb-ef72a2ff6a30.jpeg",
+      "/images/encontros/1/1/5aa9174c-8723-4662-95ce-1a1b95c4672e.jpeg",
+      "/images/encontros/1/1/2e2a3a2d-cc7b-407f-9c4e-8ed6c33785ff.jpeg"
+    ]
   },
   {
-    "date": "2026-05",
-    "place": "Online",
-    "title": "Persuasão em videochamada",
-    "text": "Quem estava de longe entrou pela tela e a votação do melhor casal do ano foi acirrada.",
-    "photos": []
+    "date": "2026-07",
+    "place": "Florybal",
+    "title": "Nunca minta — Freida McFadden",
+    "text": "Café da manhã de domingo na cafeteria, discussões sobre a leitura do mês e colagens literárias.",
+    "photos": [
+      "/images/encontros/2/a319fcf9-42e7-4e99-acab-54cca984c861.jpeg",
+      "/images/encontros/2/88fb3a86-82e0-478f-aac2-158f6a0e89c0.jpeg",
+      "/images/encontros/2/5ae364c3-a167-44e6-b26f-714f6f498576.jpeg",
+      "/images/encontros/2/fad51e41-16d7-40b9-b50f-683cbe78aab3.jpeg"
+    ]
   },
   {
-    "date": "2026-04",
-    "place": "Parque da cidade",
-    "title": "Clarice ao ar livre",
-    "text": "Piquenique, manta no chão e leitura em voz alta dos trechos que cada um marcou.",
-    "photos": []
+    "date": "2026-08",
+    "place": "Condomínio de uma das integrantes",
+    "title": "Me prometa o sol",
+    "text": "Muita discussão sobre o livro, reações aos plots e opiniões diferentes. Também fizemos uma dinâmica de duas verdades e uma mentira sobre cada integrante, além de colagens temáticas.",
+    "photos": [
+      "/images/encontros/3/5de85520-ebce-4809-84ef-2431ae31551d.jpeg",
+      "/images/encontros/3/991bf7b3-3afd-427f-83e7-8a5a09fdc1fe.jpeg",
+      "/images/encontros/3/461810ad-8a07-4213-9fdc-f89ca94502f9.jpeg",
+      "/images/encontros/3/22bb4d2f-4b99-458c-967a-321f45020ad1.jpeg",
+      "/images/encontros/3/9a9bba6d-d3bc-4d0d-9552-bacf481d0ef2.jpeg"
+    ]
   }
 ]

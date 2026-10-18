@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Toda boa história merece ser conversada.",
-    "text": "O Doce Leitura reúne leitoras e leitores uma vez por mês para discutir um livro escolhido em conjunto — com chá, café e boas conversas. Sem pressa, sem regras rígidas, só o prazer de ler acompanhado.",
+    "text": "O Doce Leitura é um clube do livro feito por garotas que compartilham o amor pela leitura. Mais do que conversar sobre livros, é um espaço para trocar percepções, descobrir novas histórias, conhecer outras leitoras e criar conexões por meio da literatura. Nossos encontros acontecem mensalmente, em Aracaju-SE.",
     "primaryButton": "Quero participar",
     "secondaryLink": "Ver nossos encontros",
     "image": "/images/clube-doce-leitura.webp",
@@ -10,33 +10,33 @@
   "about": {
     "title": "A leitura fica mais doce quando é compartilhada",
     "paragraphs": [
-      "Fundado em 2021 por um grupo de amigas que trocavam livros pelo correio, o Doce Leitura cresceu até virar um clube com encontros mensais — presenciais e online. Escolhemos um livro por vez, lemos no nosso próprio ritmo e nos reunimos para conversar sobre personagens, dúvidas e trechos favoritos.",
-      "Não existe leitura \"certa\": aqui cabem quem lê rápido, quem lê devagar, quem prefere ouvir o audiobook e quem chega no encontro sem ter terminado. O importante é aparecer com vontade de conversar."
+      "O clube começou em 2026. Islane, Letícia e Sofia se reuniam com amigas para assistir a adaptações literárias e conversar sobre suas leituras. Foi assim que surgiu a ideia de criar um clube do livro para garotas apaixonadas por leitura.",
+      "Hoje, temos 14 participantes ativas. Estamos no quinto livro e realizando nosso quinto encontro em outubro; nossos encontros são mensais e lemos um livro por mês."
     ],
     "stats": [
-      { "value": "48", "label": "membros ativos" },
-      { "value": "32", "label": "livros lidos" },
-      { "value": "60+", "label": "encontros" }
+      { "value": "14", "label": "participantes ativas" },
+      { "value": "5º", "label": "livro do clube" },
+      { "value": "5º", "label": "encontro em outubro" }
     ]
   },
   "bookshelf": {
     "title": "Nossa estante",
-    "text": "Os livros que já lemos juntos, com uma frase de cada discussão."
+    "text": "Os livros que já lemos juntas, com uma frase de cada discussão."
   },
   "testimonials": {
     "title": "O que dizem nossos membros"
   },
   "blog": {
     "title": "Resenhas e reflexões",
-    "link": "Ver todas →"
+    "link": "Em breve"
   },
   "meetings": {
     "title": "Nossos encontros",
-    "text": "Um pouco do que acontece quando a gente se reúne para falar de livro."
+    "text": "Um pouco do que acontece quando a gente se reúne para falar de livro em Aracaju-SE."
   },
   "join": {
     "title": "Bora trocar ideia sobre o próximo livro?",
-    "text": "Segue a gente no Instagram e fica por dentro do livro do mês, das datas de encontro e dos bastidores do clube.",
+    "text": "Acompanhe o @doceleituraclub e fique por dentro do livro do mês, das datas de encontro e dos bastidores do clube.",
     "button": "Seguir no Instagram"
   }
 }

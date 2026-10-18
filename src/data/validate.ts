@@ -58,6 +58,6 @@ export function validateBookOfMonth(data: Json): string[] {
   const errors: string[] = []
   requireText(data, ['title', 'author', 'synopsis', 'format'], errors)
   requireDate(data, 'meetingDate', DATETIME, 'AAAA-MM-DDTHH:MM', errors)
-  if (typeof data.pages !== 'number') errors.push('"pages" deve ser um número, sem aspas')
+  if (data.pages !== null && typeof data.pages !== 'number') errors.push('"pages" deve ser um número ou null quando não informado')
   return errors
 }

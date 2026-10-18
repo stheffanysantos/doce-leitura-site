@@ -51,7 +51,7 @@ export interface BookOfMonth {
   synopsis: string
   /** "AAAA-MM-DDTHH:MM" */
   meetingDate: string
-  pages: number
+  pages: number | null
   format: string
   /** Optional image path in /public, e.g. "/images/capas/livro.webp" */
   cover: string

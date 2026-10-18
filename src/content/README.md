@@ -92,7 +92,7 @@ Crie um arquivo em `resenhas/`. **O nome do arquivo vira o endereço da página*
 }
 ```
 
-O mês ("Livro de julho") sai da data do encontro. `pages` é um número, sem aspas.
+O mês ("Livro de julho") sai da data do encontro. `pages` é um número, sem aspas; use `null` quando o número de páginas ainda não tiver sido informado.
 
 ## Estante (`estante.json`)
 

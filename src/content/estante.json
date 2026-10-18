@@ -1,66 +1,34 @@
 [
   {
-    "title": "Cem Anos de Solidão",
-    "author": "Gabriel García Márquez",
-    "readIn": "2026-01",
-    "phrase": "ninguém terminou sem reler o começo",
-    "color": "#f8d4d5",
-    "cover": ""
-  },
-  {
-    "title": "Klara e o Sol",
-    "author": "Kazuo Ishiguro",
-    "readIn": "2026-02",
-    "phrase": "a discussão virou a noite",
-    "color": "#f3d8c4",
-    "cover": ""
-  },
-  {
-    "title": "Torto Arado",
-    "author": "Itamar Vieira Junior",
-    "readIn": "2026-03",
-    "phrase": "lágrima até de quem não chora com livro",
-    "color": "#c0e7e8",
-    "cover": ""
-  },
-  {
-    "title": "A Hora da Estrela",
-    "author": "Clarice Lispector",
-    "readIn": "2026-04",
-    "phrase": "45 minutos só sobre o final",
-    "color": "#f8d5cf",
-    "cover": ""
-  },
-  {
-    "title": "Persuasão",
-    "author": "Jane Austen",
-    "readIn": "2026-05",
-    "phrase": "dividiu opiniões sobre o herói perfeito",
-    "color": "#f4d4e2",
-    "cover": ""
-  },
-  {
-    "title": "Circe",
-    "author": "Madeline Miller",
+    "title": "Sete anos entre nós",
+    "author": "Ashley Poston",
     "readIn": "2026-06",
-    "phrase": "virou clube de mitologia por um mês",
-    "color": "#cce6d0",
-    "cover": ""
+    "phrase": "novas conexões entre leitoras",
+    "color": "#f8d4d5",
+    "cover": "/images/capas/sete_anos_entre_nos.jpg"
   },
   {
-    "title": "O Avesso da Pele",
-    "author": "Jeferson Tenório",
-    "readIn": "2025-11",
-    "phrase": "o debate mais intenso do ano",
-    "color": "#f8d4d1",
-    "cover": ""
+    "title": "Para sempre seu",
+    "author": "Abby Jimenez",
+    "readIn": "2026-07",
+    "phrase": "discussões e colagens literárias",
+    "color": "#f3d8c4",
+    "cover": "/images/capas/para_sempre_seu.jpg"
   },
   {
-    "title": "Mrs. Dalloway",
-    "author": "Virginia Woolf",
-    "readIn": "2025-10",
-    "phrase": "dá pra amar sem entender tudo",
-    "color": "#d8dcf9",
-    "cover": ""
+    "title": "Nunca minta",
+    "author": "Freida McFadden",
+    "readIn": "2026-08",
+    "phrase": "reações aos plots e opiniões diferentes",
+    "color": "#c0e7e8",
+    "cover": "/images/capas/munca_minta.jpg"
+  },
+  {
+    "title": "Jogos Vorazes",
+    "author": "Suzanne Collins",
+    "readIn": "2026-10",
+    "phrase": "o livro atual do clube",
+    "color": "#202020",
+    "cover": "/images/capas/jogos_vorazes.jpg"
   }
 ]

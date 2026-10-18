@@ -17,8 +17,8 @@ import { homePage } from '@/data/content'
     <BookOfMonthSection />
     <BookshelfSection />
     <TestimonialsSection />
-    <BlogSection />
     <MeetingsSection />
+    <BlogSection />
   </main>
   <JoinSection
     id="participar"
